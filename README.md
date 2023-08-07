@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Soklov</h1>
 <h3 align="center">I am a web developer. I write on the React framework + a little Django backend. Here are my projects, enjoy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1urt3t&label=Profile%20views&color=0e75b6&style=flat" alt="1urt3t" /> </p>
-
-
 - 📫 How to reach me **alexander.sokolweb@gmail.ru**
 
 <h3 align="left">Connect with me:</h3>
