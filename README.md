@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Soklov</h1>
-<h3 align="center">I am a web developer. I write on the React framework + a little Django backend. Here are my projects, enjoy</h3>
+<h3 align="center">I am a web developer. I love doing big projects and constantly learning new and new things. My stack is Html,Css,Js + React + some Python</h3>
 
 - 📫 How to reach me **alexander.sokolweb@gmail.ru**
 
